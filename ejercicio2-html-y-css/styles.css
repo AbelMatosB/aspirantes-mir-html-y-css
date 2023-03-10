@@ -30,6 +30,6 @@ form {
 
 @media (min-width: 500px) {
   div.clase1 {
-    width: 500px;
+    width: 300px;
   }
 }
